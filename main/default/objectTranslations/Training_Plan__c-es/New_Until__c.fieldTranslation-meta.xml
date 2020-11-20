@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Desplegar una etiqueta que indique que el curso es Nuevo hasta la fecha definida</help>
+    <label>Nuevo hasta</label>
+    <name>New_Until__c</name>
+</CustomFieldTranslation>

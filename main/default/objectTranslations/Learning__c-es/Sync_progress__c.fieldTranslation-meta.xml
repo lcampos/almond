@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción si planea agregar este aprendizaje en múltiples cursos y desea sincronizar el progreso a través de los cursos</help>
+    <label>Sincronizar progreso entre asignaciones</label>
+    <name>Sync_progress__c</name>
+</CustomFieldTranslation>

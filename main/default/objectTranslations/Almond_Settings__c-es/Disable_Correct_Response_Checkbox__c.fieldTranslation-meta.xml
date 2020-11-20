@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para deshabilitar la casilla que indica si una respuesta es correcta</help>
+    <label>Deshabilitar la casilla de Respuesta Correcta</label>
+    <name>Disable_Correct_Response_Checkbox__c</name>
+</CustomFieldTranslation>

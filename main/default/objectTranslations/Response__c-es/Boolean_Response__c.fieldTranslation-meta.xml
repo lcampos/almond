@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Respuesta Verdadero/Falso</label>
+    <name>Boolean_Response__c</name>
+    <picklistValues>
+        <masterLabel>false</masterLabel>
+        <translation>Falso</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>true</masterLabel>
+        <translation>Verdadero</translation>
+    </picklistValues>
+</CustomFieldTranslation>

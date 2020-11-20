@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para esconder las imágenes de perfil de Chatter en el encabezado del curso</help>
+    <label>Esconder imágenes de usuarios</label>
+    <name>Hide_Chatter_Photos__c</name>
+</CustomFieldTranslation>

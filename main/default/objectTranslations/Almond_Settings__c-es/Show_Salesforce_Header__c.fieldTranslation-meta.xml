@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para mostrar el encabezado de Salesforce en las paginas</help>
+    <label>Mostrar encabezado de Salesforce</label>
+    <name>Show_Salesforce_Header__c</name>
+</CustomFieldTranslation>

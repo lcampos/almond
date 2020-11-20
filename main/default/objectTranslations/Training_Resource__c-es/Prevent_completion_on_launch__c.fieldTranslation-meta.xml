@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Aprendizajes de tipo &quot;Recurso&quot; son marcados como completos al lanzarlos, habilite esta opción para prevenir este comportamiento</help>
+    <label>Delegar la terminación de Asignación</label>
+    <name>Prevent_completion_on_launch__c</name>
+</CustomFieldTranslation>

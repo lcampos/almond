@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Plantilla Secuencia de Respuestas</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Plantillas Secuencia de Respuestas</value>
+    </caseValues>
+    <layouts>
+        <layout>TML Answer Sequence Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <gender>Feminine</gender>
+    <nameFieldLabel>ID de Plantilla</nameFieldLabel>
+</CustomObjectTranslation>

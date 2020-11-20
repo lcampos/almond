@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Respuesta</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Respuestas</value>
+    </caseValues>
+    <layouts>
+        <layout>Response Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <gender>Feminine</gender>
+    <nameFieldLabel>ID de Respuesta</nameFieldLabel>
+</CustomObjectTranslation>

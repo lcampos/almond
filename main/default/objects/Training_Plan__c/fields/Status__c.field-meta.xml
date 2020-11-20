@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Status__c</fullName>
+    <inlineHelpText>Only Active training plans will be visible to learners, Draft plans will be visible for Learning Admins</inlineHelpText>
+    <externalId>false</externalId>
+    <label>Status</label>
+    <picklist>
+        <picklistValues>
+            <fullName>Draft</fullName>
+            <default>true</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>Archived</fullName>
+            <default>false</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>Active</fullName>
+            <default>false</default>
+        </picklistValues>
+        <sorted>false</sorted>
+    </picklist>
+    <trackFeedHistory>true</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+</CustomField>

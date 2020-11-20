@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Valor hexadecimal para el color de fondo (ej. #EEEEEE)</help>
+    <label>Encabezado - Color de Fondo</label>
+    <name>Header_Background_Color__c</name>
+</CustomFieldTranslation>

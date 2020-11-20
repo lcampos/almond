@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Pending_Approval</fullName>
+    <columns>NAME</columns>
+    <columns>Contact__c</columns>
+    <columns>User__c</columns>
+    <columns>OWNER.ALIAS</columns>
+    <columns>Learning__c</columns>
+    <columns>Learning_Version__c</columns>
+    <columns>Progress__c</columns>
+    <columns>Progress_Percentage__c</columns>
+    <columns>Last_Published_Learning_Version__c</columns>
+    <columns>Last_Published_Learning_Version_Decision__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Progress__c</field>
+        <operation>equals</operation>
+        <value>In Review</value>
+    </filters>
+    <label>Pending Approval</label>
+</ListView>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Sección de Curso</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Secciones de Curso</value>
+    </caseValues>
+    <layouts>
+        <layout>Training Plan Section Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label>Agregar Aprendizaje de Curso</label>
+        <name>Add_Section_Item</name>
+    </quickActions>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Nombre de Sección</nameFieldLabel>
+    <webLinks>
+        <label>Eliminar Asignaciones</label>
+        <name>Delete_Assignments</name>
+    </webLinks>
+</CustomObjectTranslation>

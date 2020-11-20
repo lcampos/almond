@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Sobrescribir el estado Adquirido, mostrará el estado seleccionado aquí en lugar del estado Adquirido. Es su responsabilidad crear un proceso que mueva la asignación del Logro al estado Adquirido.</help>
+    <label>Sobre escritura de Estado Adquirido</label>
+    <name>Override_Completed_Status__c</name>
+    <picklistValues>
+        <masterLabel>In Review</masterLabel>
+        <translation>En Revisión</translation>
+    </picklistValues>
+</CustomFieldTranslation>

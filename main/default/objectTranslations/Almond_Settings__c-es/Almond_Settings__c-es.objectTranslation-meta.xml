@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Configuración de Almond</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Configuraciones de Almond</value>
+    </caseValues>
+    <gender>Feminine</gender>
+</CustomObjectTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para esconder esta Categoría de la página de Catálogo</help>
+    <label>Esconder de página de Catálogo</label>
+    <name>Hide_From_Catalog_Home__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Prevent_completion_on_launch__c</fullName>
+    <inlineHelpText>Learnings of type &quot;Resource&quot; are marked as completed on launch by default, enable this option if you want to delegate the completion to the Resource URL</inlineHelpText>
+    <defaultValue>false</defaultValue>
+    <externalId>false</externalId>
+    <label>Delegate assignment completion</label>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

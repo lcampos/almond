@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>El logro determinará la imagen mostrada en las cajas y encabezado de las trayectorias</help>
+    <label>Logro</label>
+    <name>Achievement__c</name>
+    <relationshipLabel>Trayectorias</relationshipLabel>
+</CustomFieldTranslation>

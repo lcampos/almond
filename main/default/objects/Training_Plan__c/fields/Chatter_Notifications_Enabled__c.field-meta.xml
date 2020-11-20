@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Chatter_Notifications_Enabled__c</fullName>
+    <inlineHelpText>Disable this option if you don&apos;t want users to receive chatter notifications when they are assigned to this training plan.</inlineHelpText>
+    <defaultValue>true</defaultValue>
+    <externalId>false</externalId>
+    <label>Chatter Notifications Enabled</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

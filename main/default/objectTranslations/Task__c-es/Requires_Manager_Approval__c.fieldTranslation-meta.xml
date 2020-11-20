@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para requerir aprobación del Gestor del usuario para completar esta tarea. Esta campo usa el campo &quot;Gestor&quot; del objeto Usuario.</help>
+    <label>Requiere aprobación del Gestor para completar</label>
+    <name>Requires_Manager_Approval__c</name>
+</CustomFieldTranslation>

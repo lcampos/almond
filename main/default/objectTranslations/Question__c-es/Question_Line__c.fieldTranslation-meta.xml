@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Sección de Evaluación</label>
+    <name>Question_Line__c</name>
+    <relationshipLabel>Preguntas</relationshipLabel>
+</CustomFieldTranslation>

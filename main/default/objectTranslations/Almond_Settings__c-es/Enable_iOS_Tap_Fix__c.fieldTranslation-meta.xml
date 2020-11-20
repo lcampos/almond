@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción esta teniendo problemas de navegación con Salesforce1 + i08</help>
+    <label>Habilitar parche para iOS8</label>
+    <name>Enable_iOS_Tap_Fix__c</name>
+</CustomFieldTranslation>

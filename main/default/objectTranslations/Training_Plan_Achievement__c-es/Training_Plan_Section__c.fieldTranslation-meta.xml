@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Sección de Curso</label>
+    <lookupFilter>
+        <errorMessage>Sólo es posible asociar secciones del Curso padre</errorMessage>
+    </lookupFilter>
+    <name>Training_Plan_Section__c</name>
+    <relationshipLabel>Logros de Curso</relationshipLabel>
+</CustomFieldTranslation>

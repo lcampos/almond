@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Esta bandera indica que esta asignación ha sido creada para una vista previa del Aprendizaje</help>
+    <label>Asignación de Prueba</label>
+    <name>Is_Test_Assignment__c</name>
+</CustomFieldTranslation>

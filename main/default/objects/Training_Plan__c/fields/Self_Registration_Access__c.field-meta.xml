@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Self_Registration_Access__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>&quot;Public&quot; or blank allows users to create assignments &quot;on the fly&quot;. &quot;Requires Approval&quot; logs an approval request that is later handled by the Training Plan owner.&quot;External&quot; exposes this training plan to all users.</inlineHelpText>
+    <label>Self-Registration Access</label>
+    <picklist>
+        <controllingField>Enable_Self_Registration__c</controllingField>
+        <picklistValues>
+            <fullName>Public</fullName>
+            <controllingFieldValues>checked</controllingFieldValues>
+            <default>true</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>External</fullName>
+            <controllingFieldValues>checked</controllingFieldValues>
+            <default>false</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>Requires Approval</fullName>
+            <controllingFieldValues>checked</controllingFieldValues>
+            <default>false</default>
+        </picklistValues>
+        <sorted>false</sorted>
+    </picklist>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Especifique una liga a la cual los usuarios serian enviados cuando presionen la imagen en su Perfil.</help>
+    <label>Enlace de Sobre escritura</label>
+    <name>Override_URL__c</name>
+</CustomFieldTranslation>

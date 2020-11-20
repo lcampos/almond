@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Nombre &quot;amigable&quot; para la liga de Recurso Externo. Si está vacio, se mostrará la liga en lugar de este texto</help>
+    <label>Nombre de Recurso Externo</label>
+    <name>External_Resource_Name__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>External_Resource_Name__c</fullName>
+    <inlineHelpText>&quot;Friendly&quot; name for the External Resource URL. If blank, the External Resource URL will be displayed</inlineHelpText>
+    <externalId>false</externalId>
+    <label>External Resource Name</label>
+    <length>255</length>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

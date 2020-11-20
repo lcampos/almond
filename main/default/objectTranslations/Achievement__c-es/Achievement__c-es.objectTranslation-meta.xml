@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Logro</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Logros</value>
+    </caseValues>
+    <layouts>
+        <layout>Achievement Layout</layout>
+        <sections>
+            <label>Insignia Personalizada</label>
+            <section>Custom Badge</section>
+        </sections>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Información Opcional de Asignación</label>
+            <section>Optional Assignment Information</section>
+        </sections>
+        <sections>
+            <label>Insignia Work.com</label>
+            <section>Work.com Badge</section>
+        </sections>
+        <sections>
+            <label>Información de Insignia Work.com</label>
+            <section>Work.com Badge Information</section>
+        </sections>
+    </layouts>
+    <gender>Masculine</gender>
+    <nameFieldLabel>Nombre de Logro</nameFieldLabel>
+    <webLinks>
+        <label>Añadir Insignia Work.com</label>
+        <name>Add_Work_com_Badge</name>
+    </webLinks>
+</CustomObjectTranslation>

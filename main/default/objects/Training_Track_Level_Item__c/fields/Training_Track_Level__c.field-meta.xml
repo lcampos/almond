@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Training_Track_Level__c</fullName>
+    <externalId>false</externalId>
+    <label>Training Track Level</label>
+    <referenceTo>Training_Track_Level__c</referenceTo>
+    <relationshipLabel>Training Track Level Items</relationshipLabel>
+    <relationshipName>Training_Track_Level_Items</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>true</writeRequiresMasterRead>
+</CustomField>

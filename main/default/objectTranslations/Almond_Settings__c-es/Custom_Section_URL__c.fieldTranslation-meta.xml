@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>URL para su pagina personalizada (e.j. https://instance.salesforce.com/apex/myhomepage)</help>
+    <label>URL de Sección Personalizada</label>
+    <name>Custom_Section_URL__c</name>
+</CustomFieldTranslation>

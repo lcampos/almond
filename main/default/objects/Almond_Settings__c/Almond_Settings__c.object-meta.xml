@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject>
+    <customSettingsType>Hierarchy</customSettingsType>
+    <description>Settings used by the almond app</description>
+    <enableFeeds>false</enableFeeds>
+    <label>Almond Settings</label>
+    <visibility>Public</visibility>
+</CustomObject>

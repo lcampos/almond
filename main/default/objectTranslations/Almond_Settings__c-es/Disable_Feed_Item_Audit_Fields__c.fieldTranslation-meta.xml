@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para deshabilitar asignar valores a campos de auditoria en objetos de Chatter</help>
+    <label>Deshabilitar campos de auditoria en Chatter</label>
+    <name>Disable_Feed_Item_Audit_Fields__c</name>
+</CustomFieldTranslation>

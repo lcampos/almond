@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Evaluación</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Evaluaciones</value>
+    </caseValues>
+    <layouts>
+        <layout>Quiz Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Información Opcional</label>
+            <section>Optional Information</section>
+        </sections>
+        <sections>
+            <label>Información de Calificación</label>
+            <section>Score Information</section>
+        </sections>
+    </layouts>
+    <gender>Feminine</gender>
+    <nameFieldLabel>Nombre de Evaluación</nameFieldLabel>
+</CustomObjectTranslation>

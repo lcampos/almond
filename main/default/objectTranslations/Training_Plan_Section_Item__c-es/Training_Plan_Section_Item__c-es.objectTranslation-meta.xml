@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Aprendizaje de Curso</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Aprendizajes de Curso</value>
+    </caseValues>
+    <layouts>
+        <layout>Training Plan Section Item Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <gender>Masculine</gender>
+    <nameFieldLabel>ID de Aprendizaje de Curso</nameFieldLabel>
+    <webLinks>
+        <label>Eliminar Asignaciones</label>
+        <name>Delete_Assignments</name>
+    </webLinks>
+</CustomObjectTranslation>

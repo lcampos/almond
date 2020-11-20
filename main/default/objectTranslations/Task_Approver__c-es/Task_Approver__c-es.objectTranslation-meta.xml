@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Aprobador de Tarea</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Aprobadores de Tarea</value>
+    </caseValues>
+    <layouts>
+        <layout>Task Approver Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <gender>Masculine</gender>
+    <nameFieldLabel>ID de Aprobador de Tarea</nameFieldLabel>
+</CustomObjectTranslation>

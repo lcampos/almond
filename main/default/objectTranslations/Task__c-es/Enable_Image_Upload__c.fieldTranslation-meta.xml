@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para requerir una imagen para poder completar la tarea</help>
+    <label>Habilitar Carga de Imagen</label>
+    <name>Enable_Image_Upload__c</name>
+</CustomFieldTranslation>

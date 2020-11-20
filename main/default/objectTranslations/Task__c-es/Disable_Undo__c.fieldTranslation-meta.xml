@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para prevenir que usuarios vuelvan a abrir tareas que ya han sido completadas</help>
+    <label>Deshabilitar deshacer cambios a tareas completas</label>
+    <name>Disable_Undo__c</name>
+</CustomFieldTranslation>

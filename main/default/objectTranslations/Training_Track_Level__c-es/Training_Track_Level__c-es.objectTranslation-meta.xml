@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Nivel de Trayectoria</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Niveles de Trayectoria</value>
+    </caseValues>
+    <layouts>
+        <layout>Training Track Level Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <gender>Masculine</gender>
+    <nameFieldLabel>Nombre de Nivel</nameFieldLabel>
+</CustomObjectTranslation>

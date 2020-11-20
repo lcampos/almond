@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Training Plan Section</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Training Plan Sections</value>
+    </caseValues>
+    <layouts>
+        <layout>Training Plan Section Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>Add_Section_Item</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label></label>
+        <name>Delete_Assignments</name>
+    </webLinks>
+</CustomObjectTranslation>

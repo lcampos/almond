@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>TML Answer Sequence Item</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>TML Answer Sequence Items</value>
+    </caseValues>
+    <layouts>
+        <layout>TML Answer Sequence Item Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>item_id_specia_chars_validation</name>
+    </validationRules>
+</CustomObjectTranslation>

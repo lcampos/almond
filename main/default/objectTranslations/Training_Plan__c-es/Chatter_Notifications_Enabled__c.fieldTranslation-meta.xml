@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Deshabilitar esta opción si no desea que los usuarios reciban notificaciones en Chatter al crearles asignaciones</help>
+    <label>Habilitar Notificaciones en Chatter</label>
+    <name>Chatter_Notifications_Enabled__c</name>
+</CustomFieldTranslation>

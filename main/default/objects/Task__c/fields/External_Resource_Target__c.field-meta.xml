@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>External_Resource_Target__c</fullName>
+    <inlineHelpText>Target window for displaying the External Resource URL. &quot;blank&quot; will open a new tab/window and &quot;self&quot; will use the current tab/window</inlineHelpText>
+    <externalId>false</externalId>
+    <label>External Resource Target</label>
+    <picklist>
+        <picklistValues>
+            <fullName>blank</fullName>
+            <default>true</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>self</fullName>
+            <default>false</default>
+        </picklistValues>
+        <sorted>false</sorted>
+    </picklist>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+</CustomField>

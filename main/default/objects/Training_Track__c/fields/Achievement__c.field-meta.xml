@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Achievement__c</fullName>
+    <inlineHelpText>The Achievement will determine the badge displayed in the training track box and header</inlineHelpText>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <label>Achievement</label>
+    <referenceTo>Achievement__c</referenceTo>
+    <relationshipLabel>Training Track</relationshipLabel>
+    <relationshipName>Training_Track</relationshipName>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

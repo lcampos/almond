@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Eliminar los registros de respuestas una vez que los usuarios terminen su evaluación</help>
+    <label>Eliminar respuestas al terminar evaluación</label>
+    <name>Delete_Responses_On_Submission__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>TML Question</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>TML Questions</value>
+    </caseValues>
+    <layouts>
+        <layout>TML Question Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Question Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>AnswerSequence_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>CorrectBoolean_Required</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>CorrectNumber_Required</name>
+    </validationRules>
+</CustomObjectTranslation>

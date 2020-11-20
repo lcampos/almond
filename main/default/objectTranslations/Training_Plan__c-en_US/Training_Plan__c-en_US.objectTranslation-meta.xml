@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Training Plan</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Training Plans</value>
+    </caseValues>
+    <layouts>
+        <layout>Training Plan Layout</layout>
+        <sections>
+            <label></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Charts</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Look and Feel Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Rating Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Self-Registration Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Sequence Information</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label></label>
+        <name>Add_Achievement</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Add_Section</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Update_Plan_Achievements</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Update_Plan_Assignments</name>
+    </quickActions>
+    <sharingReasons>
+        <label></label>
+        <name>LMS_Sharing</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Date_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Empty_Date_Validation</name>
+    </validationRules>
+    <webLinks>
+        <label></label>
+        <name>Manage_Achievements</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Manage_Assignments</name>
+    </webLinks>
+    <webLinks>
+        <label></label>
+        <name>Export_Training_Plan</name>
+    </webLinks>
+</CustomObjectTranslation>

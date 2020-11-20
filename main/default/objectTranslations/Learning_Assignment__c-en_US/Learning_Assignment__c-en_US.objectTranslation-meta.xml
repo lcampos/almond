@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Learning Assignment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Learning Assignments</value>
+    </caseValues>
+    <layouts>
+        <layout>Learning Assignment Layout</layout>
+        <sections>
+            <label></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Approval Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Evaluation Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Versioning Information</section>
+        </sections>
+    </layouts>
+    <sharingReasons>
+        <label></label>
+        <name>LMS_Approval_Sharing</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label></label>
+        <name>Approve</name>
+    </webLinks>
+</CustomObjectTranslation>

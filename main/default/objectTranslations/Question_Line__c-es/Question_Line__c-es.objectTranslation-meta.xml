@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Sección de Evaluación</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Secciones de Evaluación</value>
+    </caseValues>
+    <layouts>
+        <layout>Question Line Layout</layout>
+        <sections>
+            <label>Enlaces Personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Información Opcional</label>
+            <section>Optional Information</section>
+        </sections>
+    </layouts>
+    <gender>Feminine</gender>
+    <nameFieldLabel>ID de Sección</nameFieldLabel>
+</CustomObjectTranslation>

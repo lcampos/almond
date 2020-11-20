@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Training Plan Feedback</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Training Plan Feedbacks</value>
+    </caseValues>
+    <layouts>
+        <layout>Training Plan Feedback Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

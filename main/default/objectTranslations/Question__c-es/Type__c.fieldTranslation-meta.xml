@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Tipo</label>
+    <name>Type__c</name>
+    <picklistValues>
+        <masterLabel>Boolean</masterLabel>
+        <translation>Verdadero/Falso</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Number</masterLabel>
+        <translation>Número</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SelectMultipleQuestion</masterLabel>
+        <translation>Selección Múltiple</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SelectOneQuestion</masterLabel>
+        <translation>Selección Única</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Text</masterLabel>
+        <translation>Texto</translation>
+    </picklistValues>
+</CustomFieldTranslation>

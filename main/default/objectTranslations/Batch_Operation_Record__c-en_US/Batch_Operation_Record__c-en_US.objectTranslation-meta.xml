@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Batch Operation Record</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Batch Operation Records</value>
+    </caseValues>
+    <layouts>
+        <layout>Batch Operation Record Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

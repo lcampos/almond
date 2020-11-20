@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Text_Color__c</fullName>
+    <inlineHelpText>HEX Color code for the header text color (e.g. #333333, more examples in : http://www.color-hex.com/)</inlineHelpText>
+    <label>Text Color</label>
+    <length>7</length>
+    <type>Text</type>
+</CustomField>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Aprendizaje</label>
+    <lookupFilter>
+        <informationalMessage>NOTA: Solo aprendizajes publicados pueden ser añadidos al Curso</informationalMessage>
+        <errorMessage>Solo aprendizajes publicados pueden ser añadidos al Curso</errorMessage>
+    </lookupFilter>
+    <name>Learning__c</name>
+    <relationshipLabel>Aprendizajes de Curso</relationshipLabel>
+</CustomFieldTranslation>

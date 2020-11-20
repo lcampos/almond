@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation>
+    <caseValues>
+        <plural>false</plural>
+        <value>Shared Learning Assignment</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Shared Learning Assignments</value>
+    </caseValues>
+    <layouts>
+        <layout>Shared Learning Assignment Layout</layout>
+        <sections>
+            <label></label>
+            <section>Approval Information</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Evaluation Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

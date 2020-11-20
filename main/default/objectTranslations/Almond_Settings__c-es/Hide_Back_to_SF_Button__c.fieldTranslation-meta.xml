@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>Habilitar esta opción para esconder el botón de regreso a SF del encabezado</help>
+    <label>Esconder el botón para regresar a Salesforce</label>
+    <name>Hide_Back_to_SF_Button__c</name>
+</CustomFieldTranslation>
